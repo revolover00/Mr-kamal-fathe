@@ -1,0 +1,6 @@
+{
+  "name": "كمال فتحي للفيزياء",
+  "description": "منصة الأستاذ كمال فتحي لتعلم وفهم الفيزياء بأسلوب بسيط وممتع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
