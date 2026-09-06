@@ -208,17 +208,10 @@ function LoginForm() {
             className="object-cover object-top"
             priority
           />
-          {/* Dark gradient overlay for text readability */}
-          <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-black/40" />
-          <div className="absolute inset-0 flex flex-col justify-between p-8">
-            <span className="self-start rounded-full bg-brand/90 px-3.5 py-1 text-xs font-black text-white shadow-sm backdrop-blur-xs">
-              منصة الأستاذ كمال فتحي ⚡
-            </span>
-            <p className="max-w-md text-xl font-extrabold leading-9 text-white drop-shadow-md">
-              انضم الآن لأكبر مجتمع من أوائل الجمهورية وتعلم الفيزياء بأسلوب ممتع
-              وفعّال مع أ/كمال فتحي.
-            </p>
-          </div>
+          <p className="absolute bottom-8 right-8 left-8 text-lg font-extrabold leading-relaxed text-white drop-shadow-[0_2px_8px_rgba(0,0,0,0.95)]">
+            انضم الآن لأكبر مجتمع من أوائل الجمهورية وتعلم الفيزياء بأسلوب ممتع
+            وفعّال مع أ/كمال فتحي.
+          </p>
         </div>
       </div>
 
